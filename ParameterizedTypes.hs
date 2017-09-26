@@ -16,7 +16,7 @@ However, even the parts of the sum that don't use the parameter to
 hold a value /are still specialized to the type of the parameter/.
 -}
 
-module Example1 where
+module ParameterizedTypes where
 
 -- * A simple parameterized sum type
 

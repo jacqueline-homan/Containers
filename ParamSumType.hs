@@ -16,7 +16,7 @@ However, even the parts of the sum that don't use the parameter to
 hold a value /are still specialized to the type of the parameter/.
 -}
 
-module Example2 where
+module ParamSumType where
 
 -- | Hide 'Maybe' from Prelude so we use our own.
 import Prelude hiding (Maybe(..))

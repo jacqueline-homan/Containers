@@ -18,7 +18,7 @@ thinking of it that way is a really good start. In fact, types with
 parameters behave in very many ways like functions with parameters.
 -}
 
-module ExampleA where
+module ScalarTypes where
 
 -- *  Scalar Types
 
