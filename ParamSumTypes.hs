@@ -1,9 +1,9 @@
 {-|
-Module:             Example1
+Module:             ParamSumTypes
 Description:        Demonstrate a really simple parameterized type.
 Copyright:          © 2017 All rights reserved.
 License:            GPL-3
-Maintainer:         Evan Cofsky <evan@theunixman.com>
+Maintainer:         Jacqueline Homan <jacqueline@theunixman.com>
 Stability:          experimental
 Portability:        POSIX
 

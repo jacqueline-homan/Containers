@@ -1,9 +1,9 @@
 {-|
-Module:             ExampleB
+Module:             Containers
 Description:        Example of a type of one parameter.
 Copyright:          © 2017 All rights reserved.
 License:            GPL-3
-Maintainer:         Evan Cofsky <evan@drgonzo.local>
+Maintainer:         Jacqueline Homan <evan@drgonzo.local>
 Stability:          experimental
 Portability:        POSIX
 

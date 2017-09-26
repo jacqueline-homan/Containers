@@ -1,9 +1,9 @@
 {-|
-Module:             ExampleA
+Module:             ScalarTypes
 Description:        Example of a scalar parameterized type.
 Copyright:          © 2017 All rights reserved.
 License:            GPL-3
-Maintainer:         Evan Cofsky <evan@drgonzo.local>
+Maintainer:         Jacqueline Homan <jacqueline@theunixman.com>
 Stability:          experimental
 Portability:        POSIX
 
